@@ -13,6 +13,6 @@ subtitle: 'La Tecnologia a portata di Tutti'
 
 design:
   background:
-    color: '#d0d6db'
+    color: '#97c7c1'
     text_color_light: true
 ---
