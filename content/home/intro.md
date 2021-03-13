@@ -6,13 +6,13 @@ widget: starter.blog.intro
 headless: true
 
 # Order that this section will appear in.
-weight: 15
+weight: 10
 
 title:  Tips for Tech
 subtitle: 'La Tecnologia a portata di Tutti'
 
 design:
   background:
-    color: '#090a0b'
+    color: '#d0d6db'
     text_color_light: true
 ---
