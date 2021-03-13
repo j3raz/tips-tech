@@ -6,10 +6,10 @@ widget: starter.blog.intro
 headless: true
 
 # Order that this section will appear in.
-weight: 10
+weight: 15
 
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title:  Tips for Tech
+subtitle: 'La Tecnologia a portata di Tutti'
 
 design:
   background:
